@@ -1,0 +1,6 @@
+{
+    "baseUrl": "https://admin.inform-technologies.com/",
+    "ignoreTestFiles": ["**/1-getting-started/*","**/2-advanced-examples/*"],
+    "viewportWidth": 1920,
+    "viewportHeight": 1080
+}
